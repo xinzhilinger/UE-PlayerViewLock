@@ -13,6 +13,7 @@ class DOUBLEHITPROJECT_API AMainCharacter : public ACharacter
 {
 	GENERATED_BODY()
 
+
 public:
 	// Sets default values for this character's properties
 	AMainCharacter();
